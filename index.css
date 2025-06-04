@@ -1,0 +1,26 @@
+html, body {
+   margin: 0;
+   padding: 0;
+   font-size: 10px;
+}
+
+#title {
+   text-align: center;
+}
+
+.bar {
+   fill: black;
+}
+
+.bar:hover {
+   fill: red;
+}
+
+#tooltip {
+   visibility: hidden;
+   position: absolute;
+   border: 1px solid black;
+   padding: 5px;
+   font-size: 1.5rem;
+   background-color: white;
+}
