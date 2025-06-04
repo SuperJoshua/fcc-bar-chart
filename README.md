@@ -2,7 +2,7 @@
 
 [--> See it live.](https://superjoshua.github.io/fcc-bar-chart/)
 
-This was a project required for getting the JavaScript Algorithms and Data Structures Certificate from freeCodeCamp. It had to fulfill these "user stories".
+This was a project required for getting the Data Visualization Certificate from freeCodeCamp. It had to fulfill these "user stories".
 
 - My chart should have a title with a corresponding id="title".
 - My chart should have a g element x-axis with a corresponding id="x-axis".
